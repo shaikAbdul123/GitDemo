@@ -27,7 +27,6 @@ public class umValidation {
 		int puchaseAmount = js.getInt("dashboard.purchaseAmount");
 		System.out.println(puchaseAmount);
 		Assert.assertEquals(sum, puchaseAmount);
-		System.out.println("Shaik ");
-		System.out.println("abdul");
+		
 	}
 }
