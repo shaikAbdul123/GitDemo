@@ -5,8 +5,8 @@ public class gitDemoDummy {
 		
 	public void postJira() {
 		
-		System.out.println("created develop branch");
-		System.out.println("And committing the same to develop branch");
+		System.out.println("merging to master branch");
+		System.out.println("And merging master branch");
 	
 
 	}

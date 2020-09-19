@@ -27,6 +27,8 @@ public class umValidation {
 		int puchaseAmount = js.getInt("dashboard.purchaseAmount");
 		System.out.println(puchaseAmount);
 		Assert.assertEquals(sum, puchaseAmount);
-		
+		System.out.println("merging to master branch");
+		System.out.println("And merging master branch");
+	
 	}
 }
